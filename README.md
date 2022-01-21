@@ -1,3 +1,6 @@
 # covid19-dashboard
 
-Visualisations using Voila library
+Data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
+
+Visualisations using Seaborn, Matplotlib, Plotly
+Webapp using Voila library
